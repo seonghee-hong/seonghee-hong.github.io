@@ -21,7 +21,7 @@ export default function Layout({
   const router = useRouter()
   const locale = getLocaleFromPath(router.pathname)
   const labels = localeText[locale]
-  const pageTitle = title ? `${title} | ${labels.displayName}` : locale === 'ko' ? '이진아 | 사회학자' : site.title
+  const pageTitle = title ? `${title} | ${labels.displayName}` : locale === 'ko' ? '홍성희 | 가족학자' : site.title
   const pageDescription = description || site.description
   const pageImage = ogImage || site.socialPreview
   const canonicalPath = localizedPath(router.pathname, locale)
