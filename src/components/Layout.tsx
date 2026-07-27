@@ -83,10 +83,10 @@ export default function Layout({
               '@context': 'https://schema.org',
               '@type': 'Person',
               name: site.name,
-              jobTitle: 'Assistant Professor of Sociology',
+              jobTitle: 'Assistant Professor of Instruction in Human Development and Family Science',
               affiliation: {
                 '@type': 'Organization',
-                name: 'University of Illinois at Urbana-Champaign',
+                name: 'Ohio University',
               },
               url: site.url,
               image: `${site.url}/headshot.png`,
