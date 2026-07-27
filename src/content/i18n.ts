@@ -2,7 +2,7 @@ export type Locale = 'en' | 'ko'
 
 export const localeText = {
   en: {
-    displayName: 'Jina Lee',
+    displayName: 'Seonghee Hong',
     home: 'Home',
     research: 'Research',
     teaching: 'Teaching',
@@ -62,7 +62,7 @@ export const localeText = {
       'Teaching philosophy, courses, and classroom activities in sociology of culture, sociology of gender, social statistics, and technology and society.',
   },
   ko: {
-    displayName: '이진아',
+    displayName: '홍성희',
     home: '홈',
     research: '연구',
     teaching: '강의',
