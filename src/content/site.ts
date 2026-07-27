@@ -12,12 +12,12 @@ function versionedCvFilename(): string {
 }
 
 export const site = {
-  name: 'Jina Lee',
-  title: 'Jina Lee | Sociologist',
+  name: 'Seonghee Hong',
+  title: 'Seonghee Hong | HDFS',
   description:
-    'Assistant Professor of Sociology at the University of Illinois at Urbana-Champaign. Research on gender inequality in evaluation systems across scientific and cultural fields.',
+    'Assistant Professor of Instruction of Human Development and Family Science at Ohio University. Research on gender inequality in evaluation systems across scientific and cultural fields.',
   url: generatedContact.website || 'https://jinalee.org',
-  email: generatedContact.email || 'jina@illinois.edu',
+  email: generatedContact.email || 'shong@ohio.edu',
   // Stable page for external links (hero, contact links, Scholar profile, etc.)
   // — always fresh on rebuild, unlike a cached PDF byte-for-byte at a fixed URL.
   cvUrl: `${basePath}/cv/`,
