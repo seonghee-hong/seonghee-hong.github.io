@@ -114,4 +114,4 @@ public/
   JinaLee_CV.pdf  CV page source PDF
   headshot.png  Public homepage photo
 ```
-
+Personal academic website of Seonghee Hong.
