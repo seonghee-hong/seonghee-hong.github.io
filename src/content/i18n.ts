@@ -51,11 +51,11 @@ export const localeText = {
     openMenu: 'Open navigation menu',
     closeMenu: 'Close navigation menu',
     homeDescription:
-      'Assistant Professor of Sociology at the University of Illinois at Urbana-Champaign. Research on gender inequality in evaluation systems across scientific and cultural fields.',
-    profileTitle: 'Assistant Professor of Sociology',
+      'Assistant Professor of Instruction in Human Development and Family Science at Ohio University. Research on gender inequality in evaluation systems across scientific and cultural fields.',
+    profileTitle: 'Assistant Professor of Instruction in Human Development and Family Science',
     positioningStatement:
       'I study how evaluation systems reproduce gender inequality in science and in cultural fields.',
-    headshotAlt: 'Jina Lee, Assistant Professor of Sociology',
+    headshotAlt: 'Seonghee Hong, Assistant Professor of Instruction in Human Development and Family Science',
     researchDescription:
       'Research on evaluative ambiguity, durable recognition, and the social and technical organization of judgment.',
     teachingDescription:
